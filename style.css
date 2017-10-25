@@ -17,11 +17,11 @@ background-repeat: no-repeat;}
 
 
 @keyframes balance {
-0% {webkit-transform : rotate(1deg); transform : rotate(1deg); top: 0px; left: 0px; background-image: url('image/drone1.png');}
-20% {-webkit-transform : rotate(10deg); transform : rotate(10deg); top: 0px; left: 150px; background-image: url('image/drone2.png');} 
-40% {webkit-transform : rotate(1deg); transform : rotate(1deg);top: 0px; left: -150px; background-image: url('image/drone3.png');}
-60% {-webkit-transform : rotate(-10deg); transform : rotate(-10deg);top: 0px; left: 150px; background-image: url('image/drone4.png');} 
-80% {-webkit-transform : rotate(-10deg); transform : rotate(-10deg);top: 0px; left: 150px; background-image: url('image/drone3.png');} 
-100% {-webkit-transform : rotate(1deg); transform : rotate(1deg);top: 0px; left: 0px; background-image: url('image/drone2.png');} }
+0% {webkit-transform : rotate(1deg); transform : rotate(1deg); top: 0px; left: 0px; background-image: url('drone1.png');}
+20% {-webkit-transform : rotate(10deg); transform : rotate(10deg); top: 0px; left: 150px; background-image: url('drone2.png');} 
+40% {webkit-transform : rotate(1deg); transform : rotate(1deg);top: 0px; left: -150px; background-image: url('drone3.png');}
+60% {-webkit-transform : rotate(-10deg); transform : rotate(-10deg);top: 0px; left: 150px; background-image: url('drone4.png');} 
+80% {-webkit-transform : rotate(-10deg); transform : rotate(-10deg);top: 0px; left: 150px; background-image: url('drone3.png');} 
+100% {-webkit-transform : rotate(1deg); transform : rotate(1deg);top: 0px; left: 0px; background-image: url('drone2.png');} }
 
 
